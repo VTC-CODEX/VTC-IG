@@ -1,5 +1,5 @@
-# VTC-IG
-# Paid
+VTC-IG
+install bahan termux
 
 $pkg update && pkg upgrade
 $pip install pycryptodomex
